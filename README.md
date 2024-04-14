@@ -8,7 +8,7 @@ Atualmente estou cursando Engenharia da Computação na UFPB, onde tenho explora
 
 ## Tecnologias que Domino
 
-- ![C](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.aptechsp.com.br%2Fcurso-de-linguagem-c%2F&psig=AOvVaw3xQsTKbjKM-wZ8Zm5jYU1t&ust=1713218194135000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMign7LZwoUDFQAAAAAdAAAAABAE) C
+- ![C](https://github.com/LailtonVT/LailtonVT/assets/130183037/3f889d3c-aef3-461d-9ef0-02991ecdcbba) C
 - ![C++](https://simpleicons.org/icons/cpp.svg) C++
 - ![Java](https://simpleicons.org/icons/java.svg) Java
 - ![JavaScript](https://simpleicons.org/icons/javascript.svg) JavaScript (Node.js)
