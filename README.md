@@ -4,7 +4,7 @@ Olá! Eu sou Lailton Vilarim Tenório, um estudante de Engenharia da Computaçã
 
 ## Sobre Mim
 
-Tenho 29 anos e sou natural da cidade de Queimadas-PB. Atualmente estou cursando Engenharia da Computação na UFPB, onde tenho explorado uma ampla gama de tópicos em Engenharia da computação. Estou apaixonado por resolver problemas e criar soluções inovadoras usando tecnologia.
+Tenho 28 anos e sou natural da cidade de Queimadas-PB. Atualmente estou cursando Engenharia da Computação na UFPB, onde tenho explorado uma ampla gama de tópicos em Engenharia da computação. Estou apaixonado por resolver problemas e criar soluções inovadoras usando tecnologia.
 
 ## Tecnologias que Domino
 
